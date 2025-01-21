@@ -10,13 +10,13 @@ I am a software engineer with a focus in native Android development for the last
 ### Languages and Tools:
 
 
-<a href="https://kotlinlang.org/" target="_blank"> <img align="left" alt="Kotlin" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/11/Kotlin_logo_2021.svg"/> </a>
+<a href="https://kotlinlang.org/" target="_blank"> <img align="left" alt="Kotlin" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/1/11/Kotlin_logo_2021.svg"/> </a>
 <a href="https://www.java.com/en/" target="_blank"> <img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"/> </a>
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
-<a href="https://github.com/" target="_blank"> <img align="left" alt="github" width="26px" src="https://github.com/" /> </a>
+<a href="https://github.com/" target="_blank"> <img align="left" alt="github" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" /> </a>
 <br />
 <br />
 

@@ -1,14 +1,16 @@
 ## Hi there, I'm Saad 👋
 
-<a href="https://www.linkedin.com/in/saadnismail/" target="_blank"><img align="left" alt="Saad I | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-
+<a href="https://www.linkedin.com/in/saadnismail/" target="_blank"><img align="left" alt="Saad I | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="mailto:saad.nismail@gmail.com"> <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 <br />
 <br />
 
 I am a software engineer with a focus in native Android development for the last couple of years. I love learning new things and try to keep a curious mind.
+<br />
+<br />
+
 
 ### Languages and Tools:
-
 
 <a href="https://kotlinlang.org/" target="_blank"> <img align="left" alt="Kotlin" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/1/11/Kotlin_logo_2021.svg"/> </a>
 <a href="https://www.java.com/en/" target="_blank"> <img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"/> </a>
@@ -26,6 +28,8 @@ I am a software engineer with a focus in native Android development for the last
 <a href="https://developer.android.com/studio" target="_blank"> <img align="left" alt="Android Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Android_Studio_Logo_2024.svg"/> </a> 
 <br />
 <br />
+
+
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/678f79ed98c00f7117bbafce?variant=dark" alt="roadmap.sh"/></a>
 <!--

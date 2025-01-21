@@ -30,13 +30,13 @@ I am a software engineer with a focus in native Android development for the last
 <br />
 
 
-
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/678f79ed98c00f7117bbafce?variant=dark" alt="roadmap.sh"/></a>
 <!--
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/678f79ed98c00f7117bbafce?variant=dark" alt="roadmap.sh"/></a>
+
+
 **saadnismail/saadnismail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -46,4 +46,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
